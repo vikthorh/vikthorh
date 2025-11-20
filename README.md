@@ -4,13 +4,14 @@
 <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/e6fb6665-783f-44bf-b549-48118408c934" />
 
 <!-- Espacio -->
-<br/>
+<img width="4608" height="256" alt="brr" src="https://github.com/user-attachments/assets/6ce1aea4-08cb-4b4a-8b8a-a314989fa2cb" />
 
 <!-- Texto destacado -->
 <p style="color:#ff0000; font-size:18px; font-weight:600; margin:0;">
   It makes interactions shine and helps the video game stand out. | Game Developer, Programmer & UI Designer.
 </p>
 
+<img width="4608" height="256" alt="brr" src="https://github.com/user-attachments/assets/56348f9a-c4aa-491e-a6ac-23428fa5bc77" />
 
 <!--
 **vikthorh/vikthorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
