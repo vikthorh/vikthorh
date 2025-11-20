@@ -3,6 +3,7 @@
 <!-- Banner -->
 <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/e6fb6665-783f-44bf-b549-48118408c934" />
 
+<html>
 <!-- Espacio -->
 <p>
 
@@ -14,6 +15,8 @@
 <p style="color:#ff0000; font-size:18px; font-weight:600; margin:0;">
   It makes interactions shine and helps the video game stand out. | Game Developer, Programmer & UI Designer.
 </p>
+
+</html>
 
 <img width="4608" height="256" alt="brr" src="https://github.com/user-attachments/assets/a3ef2e7f-0d93-45d7-8e50-ade2d8700990" />
 
