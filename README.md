@@ -4,7 +4,7 @@
 <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/e6fb6665-783f-44bf-b549-48118408c934" />
 
 <!-- Espacio -->
-<img width="4608" height="256" alt="brr" src="https://github.com/user-attachments/assets/6ce1aea4-08cb-4b4a-8b8a-a314989fa2cb" />
+</br4>
 
 <!-- Texto destacado -->
 <p style="color:#ff0000; font-size:18px; font-weight:600; margin:0;">
