@@ -1,5 +1,7 @@
 ## Hi, i'm Santiago 👋
 
+<img width="4608" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/e6fb6665-783f-44bf-b549-48118408c934" />
+
 <!--
 **vikthorh/vikthorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
