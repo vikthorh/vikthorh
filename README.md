@@ -2,7 +2,7 @@
 
 <img width="4608" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/e6fb6665-783f-44bf-b549-48118408c934" />
 <img width="4608" height="128">
-<p style="color:#ff0000; font-size:18px; font-weight:600;"> It makes interactions shine and helps the video game stand out. | Game Developer, Programmer & UI Designer. </p>
+<p style="color:#ff0000; font-size:18; font-weight:600;"> It makes interactions shine and helps the video game stand out. | Game Developer, Programmer & UI Designer. </p>
 <!--
 **vikthorh/vikthorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
