@@ -5,11 +5,7 @@
 
 <html>
 <!-- Espacio -->
-<p>
-
-
-  
-</p>
+</br>
 
 <!-- Texto destacado -->
 <p style="color:#ff0000; font-size:18px; font-weight:600; margin:0;">
