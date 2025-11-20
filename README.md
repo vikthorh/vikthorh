@@ -1,13 +1,16 @@
 ## Hi, i'm Santiago 👋
 
-<img width="4608" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/e6fb6665-783f-44bf-b549-48118408c934" />
+<!-- Banner -->
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/e6fb6665-783f-44bf-b549-48118408c934" />
 
-<!-- Spacer -->
-<div style="height:40px;"></div>
+<!-- Espacio -->
+<br/>
 
-<p style="color:#ff0000; font-size:18px; font-weight:600;">
+<!-- Texto destacado -->
+<p style="color:#ff0000; font-size:18px; font-weight:600; margin:0;">
   It makes interactions shine and helps the video game stand out. | Game Developer, Programmer & UI Designer.
 </p>
+
 
 <!--
 **vikthorh/vikthorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
